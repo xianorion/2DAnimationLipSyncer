@@ -1,0 +1,19 @@
+{
+  "name": "2dlipsync",
+  "version": "1.0.0",
+  "description": "Project is targeted give the user an animation that is lip synced to the audio file the user provides",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianorion/2DAnimationLipSyncer.git"
+  },
+  "author": "Mckenzie \"Mack\" Cunningham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianorion/2DAnimationLipSyncer/issues"
+  },
+  "homepage": "https://github.com/xianorion/2DAnimationLipSyncer#readme"
+}
